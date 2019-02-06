@@ -1,0 +1,29 @@
+
+.two-div{
+  border: 1px solid white;
+  position: absolute;
+  top: 120vh;
+  z-index: 10
+}
+.three{
+  background: lightgrey;
+  height: 100vh;
+  background-image: url('black.png');
+  background-attachment: fixed;
+}
+.two{
+  height: 100vh;
+  background-image: url('black.png');
+  background-attachment: fixed;
+}
+.one{
+  height: 100vh;
+  background-image: url('black.png');
+  background-attachment: fixed;
+}
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+  margin-top: 1px;
+}
